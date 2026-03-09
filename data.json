@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "username": "jdoe_92",
+    "email": "john.doe@example.com",
+    "status": "active",
+    "last_login": "2026-02-20T14:30:00Z"
+  },
+  {
+    "id": 2,
+    "username": "tech_guru",
+    "email": "sara.smith@workspace.org",
+    "status": "pending",
+    "last_login": null
+  },
+  {
+    "id": 3,
+    "username": "dev_master",
+    "email": "dev.master@workspace.org",
+    "status": "active",
+    "last_login": "2026-02-21T10:15:00Z"
+  }
+]
